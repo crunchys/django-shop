@@ -9,6 +9,7 @@ psycopg2 = "*"
 django-environ = "*"
 pillow = "*"
 celery = "*"
+flower = "*"
 
 [dev-packages]
 
